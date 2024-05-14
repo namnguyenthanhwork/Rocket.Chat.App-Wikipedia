@@ -47,7 +47,7 @@ You are now all set to develop your app. You can develop `wiki-bot` and run `rc-
 
 Contributions, issues and feature requests are welcome.
 
-Feel free to check [issues page](https://github.com/namnguyenthanhwork/wiki-rocketchat-bot/issues) if you want to contribute.
+Feel free to check [issues page](https://github.com/namnguyenthanhwork/Rocket.Chat.App-Wikipedia/issues) if you want to contribute.
 
 ## ❤ Show your support
 
