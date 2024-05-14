@@ -5,8 +5,8 @@
 	"iconFile": "icon.png",
 	"author": {
 		"name": "Thành Nam Nguyễn",
-		"homepage": "www.thanhnamnguyen.dev",
-		"support": "namnguyenthanh.work@gmail.com"
+		"homepage": "https://github.com/namnguyenthanhwork/Rocket.Chat.App-Wikipedia/",
+		"support": "https://github.com/namnguyenthanhwork/Rocket.Chat.App-Wikipedia/issues"
 	},
 	"name": "Wiki Search",
 	"nameSlug": "wiki",
