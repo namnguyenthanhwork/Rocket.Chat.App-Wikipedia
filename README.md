@@ -5,7 +5,7 @@ Wikipedia integration for Rocket.Chat
 ## Install bot
 
 1. Clone this repository
-2. Click three dot in left sidebar -> App (Marketplace) -> Private Apps -> Upload a private app -> Choose file `wiki_1.0.0.zip` in `dist` folder -> Install
+2. Click three dot in left sidebar -> App (Marketplace) -> Private Apps -> Upload a private app -> Choose file `wiki_1.0.0.zip` (files available in releases on github repo) -> Install
 3. Go to channel, type `/wiki <keywords>`
 
 ![demo](./images/demo.png)
