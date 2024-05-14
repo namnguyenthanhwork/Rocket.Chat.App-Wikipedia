@@ -1,0 +1,17 @@
+{
+	"id": "4fc31314-64b4-49b9-aa59-3df4bf5ecc73",
+	"version": "1.0.0",
+	"requiredApiVersion": "^1.19.0",
+	"iconFile": "icon.png",
+	"author": {
+		"name": "Thành Nam Nguyễn",
+		"homepage": "www.thanhnamnguyen.dev",
+		"support": "namnguyenthanh.work@gmail.com"
+	},
+	"name": "Wiki Search",
+	"nameSlug": "wiki",
+	"classFile": "Wiki.ts",
+	"description": "Wiki Search is a bot that allows you to search for Wikipedia articles directly.",
+	"categories": ["search"],
+	"implements": []
+}
